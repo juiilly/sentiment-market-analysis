@@ -12,6 +12,7 @@ Fear & Greed Index data
 
 The full analysis, methodology, insights, and results are included in the Google Colab notebook.
 
+
 Dataset Information
 
 Two datasets were used:
@@ -28,6 +29,7 @@ To rerun the project, place both CSV files in the same directory as the notebook
 Project Structure
 ├── analysis.ipynb          # Main Google Colab / Jupyter Notebook
 ├── README.md               # Project documentation
+
 
 Setup Instructions
 
@@ -54,14 +56,15 @@ Upload both CSV files to the Colab session
 
 Run all cells
 
+
 Output
 
 The notebook includes:
 
-Sentiment-based performance analysis
-Behavioral analysis
-Trader segmentation
-Visualizations and summary insights
+Sentiment-based performance analysis,
+Behavioral analysis,
+Trader segmentation,
+Visualizations and summary insights,
 Strategy recommendations
 
 All results are directly visible in the notebook.
