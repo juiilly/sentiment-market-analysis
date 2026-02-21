@@ -1,6 +1,7 @@
 # sentiment-market-analysis
 
 Trader Performance & Sentiment Analysis
+
 Overview
 
 This project analyzes trader profitability and behavior across different market sentiment regimes using:
@@ -32,7 +33,7 @@ Setup Instructions
 
 Clone the repository:
 
-git clone <your-repo-link>
+git clone <https://github.com/juiilly/sentiment-market-analysis.git>
 cd <sentiment-market-analysis>
 
 Install required packages:
@@ -58,13 +59,9 @@ Output
 The notebook includes:
 
 Sentiment-based performance analysis
-
 Behavioral analysis
-
 Trader segmentation
-
 Visualizations and summary insights
-
 Strategy recommendations
 
 All results are directly visible in the notebook.
